@@ -1,5 +1,16 @@
 # California House Price Prediction API
+<div align="center">
 
+# California House Price Prediction API
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+A production-ready ML API for predicting California house prices.
+
+</div>
 A production-ready ML API that predicts California house prices using a trained RandomForestRegressor, served with FastAPI.
 
 ## Features
