@@ -1,4 +1,3 @@
-# California House Price Prediction API
 <div align="center">
 
 # California House Price Prediction API
