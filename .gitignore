@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+.venv_old/
+venv/
+env/
+
+# uv
+# (uv.lock should be committed! keep it)
+
+# Data (large files)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Models (large binaries)
+models/*.joblib
+models/*.pkl
+models/*.h5
+!models/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Test artifacts
+predictions.csv
+test.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.local
